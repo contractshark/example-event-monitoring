@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "truffle migrate --reset --compile-all && truffle test"
+  },
+  "dependencies": {
+    "ethers": "^5.0.19",
+    "truffle": "^5.1.26"
+  }
+}
